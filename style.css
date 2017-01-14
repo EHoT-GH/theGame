@@ -9,9 +9,9 @@ body {
 	-moz-user-select: none; 
 	-webkit-user-select: none; 
 	user-select: none;
-  line-height: 1;
-  color: #445242;
-  background: #ACCEA6;
+	line-height: 1;
+	color: #445242;
+	background: #ACCEA6;
 	font-family: Verdana;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 img {
-		opacity: 0.66;
+	opacity: 0.66;
 }
 
 img.choose {
